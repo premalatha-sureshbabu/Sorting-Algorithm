@@ -21,8 +21,11 @@ To write a program to perform selection sort and insertion sort using python pro
 i)	#Selection Sort
 
 Program to sort the elements in the list using the Selection Sort algorithm.
+
 Developed by: S.Prema latha
+
 RegisterNumber: 22009393
+
 def selection_sort(nums):
 
     for i in range(len(nums)):
@@ -60,8 +63,11 @@ ii)	#Insertion Sort
 
 
 Program to sort the elements in the list using the Insertion Sort algorithm.
+
 Developed by:S.Prema latha
+
 RegisterNumber: 22009393
+
 def insertion_sort(nums):
 
     for i in range(1,len(nums)):
